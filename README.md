@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# TFS-4 Project
+
+## Required Assets
+
+### Payment Methods Image
+Place a combined payment methods image at:
+`/public/payment/payment-methods.png`
+
+This image should be a horizontal arrangement of payment method logos including:
+- Visa
+- Mastercard
+- American Express
+- Discover
+- PayPal
+
+The image should be approximately 300px wide and 40px high.
+
+### Country Flags
+The project uses `react-phone-input-2` which includes its own flag images, so no separate flag images are required.
