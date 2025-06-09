@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400" height="60" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Visa -->
+  <rect x="10" y="10" width="80" height="40" rx="4" fill="#1A1F36"/>
+  <text x="50" y="35" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">VISA</text>
+  
+  <!-- Mastercard -->
+  <rect x="110" y="10" width="80" height="40" rx="4" fill="#1A1F36"/>
+  <text x="150" y="35" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">MC</text>
+  
+  <!-- Amex -->
+  <rect x="210" y="10" width="80" height="40" rx="4" fill="#1A1F36"/>
+  <text x="250" y="35" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">AMEX</text>
+  
+  <!-- PayPal -->
+  <rect x="310" y="10" width="80" height="40" rx="4" fill="#1A1F36"/>
+  <text x="350" y="35" font-family="Arial" font-size="14" fill="#FFFFFF" text-anchor="middle">PayPal</text>
+</svg> 
